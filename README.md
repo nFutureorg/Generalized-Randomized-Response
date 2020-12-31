@@ -1,0 +1,2 @@
+# Generalized-Randomized-Response
+Randomized response is a research method used in structured survey interview. It was first proposed by S. L. Warner in 1965 and later modified by B. G. Greenberg and coauthors in 1969. It allows respondents to respond to sensitive issues (such as criminal behavior or sexuality) while maintaining confidentiality. Chance decides, unknown to the interviewer, whether the question is to be answered truthfully, or "yes", regardless of the truth.
